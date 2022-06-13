@@ -1,6 +1,6 @@
-                                                         👋 Hi, I’m @Anisha Gollapudi
+                                                       👋 Hi, I’m @Anisha Gollapudi
                                                          
-                                               Machine Learning Engineer|Computer Vision & Deep Learning
+                                           Machine Learning Engineer|Computer Vision & Deep Learning
                                                          
 - 👀 I’m interested in exploring new technologies
 - 🌱 I’m currently learning Machine Learning,Deep Learning,Natural Language Processing,Computer Vision
